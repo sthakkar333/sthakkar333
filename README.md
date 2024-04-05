@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sthakkar333
-- 👀 I’m interested in ... managing, segregating raw data and converting it into useful and understandable slides
+- 👀 I’m interested in ... data analysis tasks, including data cleaning, visualization, and statistical analysis.
 - 🌱 I’m currently learning ...tableau, python,Rstudio, SQL
 - 💞️ I’m looking to collaborate on ... creating projects on Tableau and MySQL
 - 📫 How to reach me ... HIT ME MASSAGE OR EMAIL.
